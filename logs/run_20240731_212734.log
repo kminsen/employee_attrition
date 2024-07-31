@@ -1,0 +1,74 @@
+2024-07-31 21:27:34,674 - INFO - Removed MonthlyIncome
+2024-07-31 21:27:34,847 - INFO - Accuracy:0.8469387755102041
+2024-07-31 21:27:34,849 - INFO - 
+Confusion Matrix:[[249   6]
+ [ 39   0]]
+
+2024-07-31 21:27:34,850 - INFO - 
+Classification Report:              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92       255
+           1       0.00      0.00      0.00        39
+
+    accuracy                           0.85       294
+   macro avg       0.43      0.49      0.46       294
+weighted avg       0.75      0.85      0.80       294
+
+
+2024-07-31 21:27:34,852 - INFO - ROC AUC Score:0.6892911010558069
+2024-07-31 21:27:35,320 - INFO - Accuracy:0.8843537414965986
+2024-07-31 21:27:35,323 - INFO - 
+Confusion Matrix:[[250   5]
+ [ 29  10]]
+
+2024-07-31 21:27:35,325 - INFO - 
+Classification Report:              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94       255
+           1       0.67      0.26      0.37        39
+
+    accuracy                           0.88       294
+   macro avg       0.78      0.62      0.65       294
+weighted avg       0.87      0.88      0.86       294
+
+
+2024-07-31 21:27:35,326 - INFO - ROC AUC Score:0.775465057817999
+2024-07-31 21:27:35,372 - INFO - Precision-Recall AUC: 0.25
+2024-07-31 21:27:35,587 - INFO - Precision-Recall AUC: 0.47
+2024-07-31 21:27:36,340 - INFO - Accuracy:0.7307692307692307
+2024-07-31 21:27:36,342 - INFO - 
+Confusion Matrix:[[179  71]
+ [ 62 182]]
+
+2024-07-31 21:27:36,344 - INFO - 
+Classification Report:              precision    recall  f1-score   support
+
+           0       0.74      0.72      0.73       250
+           1       0.72      0.75      0.73       244
+
+    accuracy                           0.73       494
+   macro avg       0.73      0.73      0.73       494
+weighted avg       0.73      0.73      0.73       494
+
+
+2024-07-31 21:27:36,346 - INFO - ROC AUC Score:0.8139344262295081
+2024-07-31 21:27:36,543 - INFO - Accuracy:0.9251012145748988
+2024-07-31 21:27:36,545 - INFO - 
+Confusion Matrix:[[240  10]
+ [ 27 217]]
+
+2024-07-31 21:27:36,548 - INFO - 
+Classification Report:              precision    recall  f1-score   support
+
+           0       0.90      0.96      0.93       250
+           1       0.96      0.89      0.92       244
+
+    accuracy                           0.93       494
+   macro avg       0.93      0.92      0.92       494
+weighted avg       0.93      0.93      0.92       494
+
+
+2024-07-31 21:27:36,549 - INFO - ROC AUC Score:0.9744590163934426
+2024-07-31 21:27:36,597 - INFO - Precision-Recall AUC: 0.92
+2024-07-31 21:27:38,403 - INFO - Cross-validation scores: [0.9820569  0.97640912 0.97896625 0.97386045 0.9794775 ]
+2024-07-31 21:27:38,405 - INFO - Mean cross-validation score: 0.9781540434231738
